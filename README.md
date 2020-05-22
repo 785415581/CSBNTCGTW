@@ -4,7 +4,11 @@
 ## 使用条件：
 >* Nuke10
 ## 用法：
-> 1.首先把文件夹复制到C:\Users\<username>\.nuke文件夹下面
-> 2.然后把menu.py文件复制到C:\Users\<username>\.nuke文件夹下
+>* 1.首先把文件夹复制到C:\Users\<username>\.nuke文件夹下面
+>* 2.然后把menu.py文件复制到C:\Users\<username>\.nuke文件夹下
 ## 用例展示：
-> [!image]()
+>![image](https://github.com/Qinjiaxin/CSBNCGTW/blob/master/Screenshot/use.jpg)
+>![image](https://github.com/Qinjiaxin/CSBNCGTW/blob/master/Screenshot/create_shot.png)
+>![image](https://github.com/Qinjiaxin/CSBNCGTW/blob/master/Screenshot/create_shot1.png)
+>![image](https://github.com/Qinjiaxin/CSBNCGTW/blob/master/Screenshot/create_shotTask.png)
+>![image](https://github.com/Qinjiaxin/CSBNCGTW/blob/master/Screenshot/create_shotTask1.png)
